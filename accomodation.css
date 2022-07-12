@@ -1,0 +1,36 @@
+.div1{
+    background-color: rgb(37, 35, 21);
+    padding: 5px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    text-align: left;
+
+}
+li {
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+.div3{
+    background-color: black;
+    color: rgb(112, 112, 109);
+}
+.acc{
+    background-color: black;
+    color: rgb(133, 118, 34);
+    border-color: black;
+}
+.delux{
+    display: flex;
+}
+.accom{
+    padding: 50px;
+    background-image: url(./spa-fitness-9.jpg);
+    background-size: cover;
+    color: black;
+    font-size: 20px;
+    font-family: lucida handwriting;
+}

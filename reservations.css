@@ -1,0 +1,48 @@
+.div1{
+    background-color: rgb(37, 35, 21);
+    padding: 5px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    text-align: left;
+
+}
+li {
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+.div3{
+    background-color: black;
+    color: rgb(112, 112, 109);
+}
+.form{
+    display: flex;
+    padding: 20px;
+    
+}
+.part2{
+    text-align: left;
+    color: white;
+    padding-left: 350px;
+    padding-left: 90px;
+    
+}
+.part1{
+    text-align: left;
+    color: white;
+    padding-left: 350px;
+}
+.bg{
+    background-image: url(./weddings-1.jpg);
+    padding: 10px;
+    background-size: cover;
+}
+.reserve{
+    padding: 10px;
+   
+   
+    
+}
